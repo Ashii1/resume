@@ -1,0 +1,98 @@
+
+
+.name-0{
+    display: none;
+}
+.v-box{
+    height:100%;
+    width: 50%;
+}
+
+.name-box{
+    margin-top: 10px;
+    width: 50%;
+    display: flex;
+    margin-left: 10px;
+   
+}
+input{
+    width: 70px;
+    height: 20px;
+    cursor: pointer;
+}
+
+.mob-box ,.add-box, .mail-box , .date-box {
+    margin-top: 10px;
+    width: 60%;
+    display: flex;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.skills{
+ margin-top: 50px;
+ margin-left: 10px;
+ cursor: pointer;
+ display: flex;
+ 
+}
+#text-data , #num-data ,#add-data ,#mail-data{
+    height: 50px;
+    width: 150px;
+    cursor: pointer;
+    color: brown;
+}
+.skills li{
+    cursor: pointer;
+    color: brown;
+}
+
+.v-box h1{
+     margin: 2rem;
+    
+        
+    }
+.v-box{
+    width: 30%;
+   background-color: #c9c9c9;
+    border-radius: 20px;
+    }
+.v-box img{
+    width: 22px;
+    height: 20px;
+    margin-left: 3px;
+    cursor: pointer;
+}
+
+
+#update,#update1,#update2,#update3,#update4{
+    padding-left: 10px;
+    
+}
+.obj-div ,.edu-div{
+    border-bottom: 3px solid black;
+}
+
+.obj-div ,.edu-div ,.pro-div{
+    
+    margin-left: 15px;
+}
+.obj-div h3 ,.edu-div h3 ,.pro-div h3{
+    font-size: xx-large;
+    margin: 0;
+    margin-top: 10px;
+    
+}
+
+.edu-div  h5,  .pro-div h5 {
+    margin: 15px;
+    font-size: large;
+    
+}
+
+  .edu-div h3{
+    
+    
+  }
+  .edu-div p ,.pro-div p{
+    margin-left: 40px;
+  }
